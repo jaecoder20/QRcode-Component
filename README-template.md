@@ -37,6 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+ - Working from outside in, bigger blue box, then smaller white box and finally QR image
 
 ### Built with
 
